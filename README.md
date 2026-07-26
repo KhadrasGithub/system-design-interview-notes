@@ -1,2 +1,2 @@
-# Grokking Modern System Design Interview
-My diagrams while learning the [Grokking Modern System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+# System Design Interview Notes
+My diagrams while learning the [System Design Interview – An insider's guide](https://www.goodreads.com/en/book/show/54109255-system-design-interview-an-insider-s-guide) by Alex Xu
